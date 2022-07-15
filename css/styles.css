@@ -824,6 +824,9 @@ position: relative;
 .checkbox:checked+.checkbox-icon .icon-one {
     opacity: 1
 }
+.checkbox:checked+.checkbox-icon .icon-two {
+    opacity: 0
+}
 .terms{
     text-decoration: underline;
     margin-left: 1px;
